@@ -1,0 +1,147 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.0.107:8501
+
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\streamlit\ru |
+| ntime\scriptrunner\exec_code.py:129 in exec_func_with_error_handling                 |
+|                                                                                      |
+| C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\streamlit\ru |
+| ntime\scriptrunner\script_runner.py:672 in code_to_exec                              |
+|                                                                                      |
++-| ------------------------C:\Users\user\Documents\crystal_ai\gui\app.py: 19Traceback  in <module>                         (most recent call last)|
+|  -------------------------                                                                                     -+|
+
+|   | 16     sys.path.insert( C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\streamlit\ru 0|, PROJECT_ROOT)                                           
+|
+|| ntime\scriptrunner\exec_code.py:    17 129                                                                                in exec_func_with_error_handling                 |
+||
+ |    18                                                                                      from| 
+tts_bridge|  C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\streamlit\ru |
+import| speak, stop_speaking                                     ntime\scriptrunner\script_runner.py:672 in |code_to_exec
+                              ||
+ |>                                                                                        19 |from
+ | C:\Users\user\Documents\crystal_ai\gui\app.pybrain:19 in .<module>brain                          import| CrystalBrain
+|                                                                                                                                | 
+||
+   | 20    from 16      sys.path.insert(skill_manager0 , PROJECT_ROOT)                                           import| SkillManager
+                                         |    17 |                                                                               
+||
+   | 21                                                                                   | 18 from
+|    tts_bridge 22  import speak, stop_speaking                                    # =====================|                                                        
+||
+ >  19 from brain.|brain                                                                                       import| CrystalBrain
+                                           || C:\Users\user\Documents\crystal_ai\brain\brain.py:10 in <module>                     
+||
+   | 20                                                                                       |from
+ |skill_manager      7 import SkillManager                                         from| 
+|   . 21                                                                                memory |import
+ Memory                                                     ||   
+ 22 |# =====================                                                         |  
+  8 |from                                                                                       .|guard 
+import| build_prompt, judge, enforce, Judgment C:\Users\user\Documents\crystal_ai\brain\brain.py:10 in <module>                                           ||
+
+||                                                                                       |
+|     7   from  9  from.memory  import Memory                                                     .llm import generate_response|                                             |
+| >  10 from .
+intent_judge|    import  8  detect_intentfrom                                         |.
+guard|    import 11  build_prompt, judge, enforce, Judgment                      from|
+|  skill_manager     9 from .llm import generate_response                                             import|
+| SkillManager                                         >  10  from| 
+.| intent_judge    12 import                                                                               | detect_intent
+|                                            13 |
+|    11 from skill_manager                                                                                |
+import| SkillManager                                          |                                                                                     
+||
+   | 12  C:\Users\user\Documents\crystal_ai\brain\intent_judge.py                                                                               |
+:1 in <module>               ||   
+ 13 |                                                                               |
+                                                                                      || 
+| >   1                                                                                      from| 
+flashtext|  C:\Users\user\Documents\crystal_ai\brain\intent_judge.py:import1 KeywordProcessor in <module>                                                       |
+ ||
+|                                                                                         |  2 
+|from  >   1 from flashtext import KeywordProcessorsentence_transformers                                          |
+import| SentenceTransformer, util                       |  2 
+from|    sentence_transformers  3                                                                                 |import
+ SentenceTransformer, util                    ||   
+  4 |# =========================================================                         3 |                                                                               |
+
+|+--------------------------------------------------------------------------------------+   
+  4 ModuleNotFoundError: # =========================================================No module named                     'flashtext'|
+
++--------------------------------------------------------------------------------------+
+ModuleNotFoundError: No module named 'flashtext'
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\streamlit\ru |
+| ntime\scriptrunner\exec_code.py:129 in exec_func_with_error_handling                 |
+|                                                                                      |
+| C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\streamlit\ru |
+| ntime\scriptrunner\script_runner.py:672 in code_to_exec                              |
+|                                                                                      |
+| C:\Users\user\Documents\crystal_ai\gui\app.py:19 in <module>                         |
+|                                                                                      |
+|    16     sys.path.insert(0, PROJECT_ROOT)                                           |
+|    17                                                                                |
+|    18 from tts_bridge import speak, stop_speaking                                    |
+| >  19 from brain.brain import CrystalBrain                                           |
+|    20 from skill_manager import SkillManager                                         |
+|    21                                                                                |
+|    22 # =====================                                                        |
+|                                                                                      |
+| C:\Users\user\Documents\crystal_ai\brain\brain.py:10 in <module>                     |
+|                                                                                      |
+|     7 from .memory import Memory                                                     |
+|     8 from .guard import build_prompt, judge, enforce, Judgment                      |
+|     9 from .llm import generate_response                                             |
+| >  10 from .intent_judge import detect_intent                                        |
+|    11 from skill_manager import SkillManager                                         |
+|    12                                                                                |
+|    13                                                                                |
+|                                                                                      |
+| C:\Users\user\Documents\crystal_ai\brain\intent_judge.py:1 in <module>               |
+|                                                                                      |
+| >   1 from flashtext import KeywordProcessor                                         |
+|     2 from sentence_transformers import SentenceTransformer, util                    |
+|     3                                                                                |
+|     4 # =========================================================                    |
++--------------------------------------------------------------------------------------+
+ModuleNotFoundError: No module named 'flashtext'
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\streamlit\ru |
+| ntime\scriptrunner\exec_code.py:129 in exec_func_with_error_handling                 |
+|                                                                                      |
+| C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages\streamlit\ru |
+| ntime\scriptrunner\script_runner.py:672 in code_to_exec                              |
+|                                                                                      |
+| C:\Users\user\Documents\crystal_ai\gui\app.py:19 in <module>                         |
+|                                                                                      |
+|    16     sys.path.insert(0, PROJECT_ROOT)                                           |
+|    17                                                                                |
+|    18 from tts_bridge import speak, stop_speaking                                    |
+| >  19 from brain.brain import CrystalBrain                                           |
+|    20 from skill_manager import SkillManager                                         |
+|    21                                                                                |
+|    22 # =====================                                                        |
+|                                                                                      |
+| C:\Users\user\Documents\crystal_ai\brain\brain.py:10 in <module>                     |
+|                                                                                      |
+|     7 from .memory import Memory                                                     |
+|     8 from .guard import build_prompt, judge, enforce, Judgment                      |
+|     9 from .llm import generate_response                                             |
+| >  10 from .intent_judge import detect_intent                                        |
+|    11 from skill_manager import SkillManager                                         |
+|    12                                                                                |
+|    13                                                                                |
+|                                                                                      |
+| C:\Users\user\Documents\crystal_ai\brain\intent_judge.py:1 in <module>               |
+|                                                                                      |
+| >   1 from flashtext import KeywordProcessor                                         |
+|     2 from sentence_transformers import SentenceTransformer, util                    |
+|     3                                                                                |
+|     4 # =========================================================                    |
++--------------------------------------------------------------------------------------+
+ModuleNotFoundError: No module named 'flashtext'
+^C

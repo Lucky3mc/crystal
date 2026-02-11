@@ -1,0 +1,51 @@
+Traceback (most recent call last):
+  File "C:\Users\user\rasa-oss-env\Lib\site-packages\numpy\core\__init__.py", line 23, in <module>
+    from . import multiarray
+  File "C:\Users\user\rasa-oss-env\Lib\site-packages\numpy\core\multiarray.py", line 10, in <module>
+    from . import overrides
+  File "C:\Users\user\rasa-oss-env\Lib\site-packages\numpy\core\overrides.py", line 6, in <module>
+    from numpy.core._multiarray_umath import (
+        add_docstring, implement_array_function, _get_implementing_args)
+ModuleNotFoundError: No module named 'numpy.core._multiarray_umath'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\user\rasa-oss-env\Scripts\rasa.exe\__main__.py", line 2, in <module>
+    from rasa.__main__ import main
+  File "C:\Users\user\rasa-oss-env\Lib\site-packages\rasa\__main__.py", line 11, in <module>
+    import rasa.telemetry
+  File "C:\Users\user\rasa-oss-env\Lib\site-packages\rasa\telemetry.py", line 28, in <module>
+    from rasa.engine.storage.local_model_storage import LocalModelStorage
+  File "C:\Users\user\rasa-oss-env\Lib\site-packages\rasa\engine\storage\local_model_storage.py", line 14, in <module>
+    import rasa.utils.common
+  File "C:\Users\user\rasa-oss-env\Lib\site-packages\rasa\utils\common.py", line 28, in <module>
+    import numpy as np
+  File "C:\Users\user\rasa-oss-env\Lib\site-packages\numpy\__init__.py", line 140, in <module>
+    from . import core
+  File "C:\Users\user\rasa-oss-env\Lib\site-packages\numpy\core\__init__.py", line 49, in <module>
+    raise ImportError(msg)
+ImportError: 
+
+IMPORTANT: PLEASE READ THIS FOR ADVICE ON HOW TO SOLVE THIS ISSUE!
+
+Importing the numpy C-extensions failed. This error can happen for
+many reasons, often due to issues with your setup or how NumPy was
+installed.
+
+We have compiled some common reasons and troubleshooting tips at:
+
+    https://numpy.org/devdocs/user/troubleshooting-importerror.html
+
+Please note and check the following:
+
+  * The Python version is: Python3.14 from "C:\Users\user\rasa-oss-env\Scripts\python.exe"
+  * The NumPy version is: "1.23.5"
+
+and make sure that they are the versions you expect.
+Please carefully study the documentation linked above for further help.
+
+Original error was: No module named 'numpy.core._multiarray_umath'
+

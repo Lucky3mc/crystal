@@ -1,0 +1,7 @@
+{
+  "path": "voice_state.json",
+  "emotion": "neutral",
+  "intimacy": 0.3,
+  "trust": 0.5,
+  "personality": "gentle"
+}

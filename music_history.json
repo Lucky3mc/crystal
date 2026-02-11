@@ -1,0 +1,66 @@
+[
+  {
+    "query": "synthwave radio - beats to chill/game to",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1770139097/ei/edmBabW1EoyIvdIP-KLKkAU/ip/102.0.18.168/id/4xDzrJKXOOY.3/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hls_chunk_host/rr1---sn-5pguxa3x-ocvs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AW-iu_revXFGusxuiHY5JrToR95r5TC2C-3XgXzeAEu7GjvOmuolH4uCnldtJHfdZGK5vSUJ-Rvs-wsu/spc/q5xjPPdSg9Ynx5hCNpm_jLF6C-T9J3kEUinBwpnDT4oYZ99fAlvtaA/vprv/1/playlist_type/DVR/initcwndbps/360000/met/1770117499,/mh/PJ/mm/44/mn/sn-5pguxa3x-ocvs/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1770117171/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJEij0EwRAIgM0hbvvET2xqtpbnTpME7msf64F8f7ALOl6r3uhSzd10CIAm_WSbDg_iECSIlxR0N89S4IKq7hT1ftgM1w_7DCrK-/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgOSumHt5XNMkGR2z5gllGEI7dU3BJ_EJ44p6lVmR_8OoCIQDK5lRv8WlXSlz2EoE_shDJ_YozjkaFEX818DtdstTfrw%3D%3D/playlist/index.m3u8",
+    "audio_only": true,
+    "radio_mode": true,
+    "timestamp": "2026-02-03 14:18:17",
+    "genre": null
+  },
+  {
+    "query": "streamer pro",
+    "url": "https://rr2---sn-5pguxa3x-ocvz.googlevideo.com/videoplayback?expire=1770139030&ei=NtmBabXtJaKI6dsPv9rHwQQ&ip=102.0.18.168&id=o-AIeTzGt-2WfxF7spKPfZkpughTxByvFSTN5n5o4Fy1pK&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=438&met=1770117430%2C&mh=Z-&mm=31%2C29&mn=sn-5pguxa3x-ocvz%2Csn-hc57en7d&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=338750&bui=AW-iu_obTBbg8c6h2fH5RT9OtXYQHpuftF7wx4x3MNeYBiUCjcFSNCSlHS_3mmK0NlkcwGHrkYkivOL0&spc=q5xjPOsygHjo&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=849238&dur=48.561&lmt=1694567715288136&mt=1770117232&fvip=5&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID_VR&txp=1311224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJEij0EwRgIhAId2bZPjflnopPDCc22VPDVdAKiQ_twn86RcQqmx94ZVAiEAn-yt3-R-vWuoizhKDPBSnnL1RosYR15TBl5cNNA99Pg%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANxNdrELPfyRazMHGaq44NsrcnsS1yAYEHvktqTpBYfnAiEAh2YEC74Od2T_L0ZWH8UIDKUmCzKeZqp2Nzc2GPzdbKQ%3D",
+    "audio_only": true,
+    "radio_mode": false,
+    "timestamp": "2026-02-03 14:17:09",
+    "genre": null
+  },
+  {
+    "query": "lofi hip hop radio - beats to relax/study to",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1770138795/ei/S9iBaZWlNJnW6dsPuOH-iAU/ip/102.0.18.168/id/jfKfPfyJRdk.3/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hls_chunk_host/rr1---sn-5pguxa3x-ocvz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AW-iu_q-290J98IhM1T0pHi5dRgUqYIpwI573XVg0kt4NY35vuB771jxXEhveAw0D8LiSXGmNAxCWQbz/spc/q5xjPCDzOtd9Ul2oFmNo1b3If1p5blQJoe8v3EN3NXdRr6172Or5ew/vprv/1/playlist_type/DVR/initcwndbps/341250/met/1770117197,/mh/rr/mm/44/mn/sn-5pguxa3x-ocvz/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1770116683/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhAJe9fo17cPPxC7h7AEc4LD3nWxv0hNq2aJI-Sa1-cjIEAiEA1lDpRQREYXICjpubcf7PoZ2CnBnl7kOP-D9Sh2D8djk%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgKWZFO9OCaCXMyfXiiSvq2Ny2Lok7hqG8TiABIUHINZICIDy1pZUR7ogJwnFOwdI6d_pNitXgM_3t4QMDRE5JxgY9/playlist/index.m3u8",
+    "audio_only": true,
+    "radio_mode": true,
+    "timestamp": "2026-02-03 14:13:13",
+    "genre": null
+  },
+  {
+    "query": "streamer pro",
+    "url": "https://rr2---sn-5pguxa3x-ocvz.googlevideo.com/videoplayback?expire=1770138725&ei=BdiBacuHBLK2mLAP3cWRqAI&ip=102.0.18.168&id=o-AEOw4KOlr-uXmxlXpPkggD6mhBlidT7q02Py4N7YocwN&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=225&met=1770117125%2C&mh=Z-&mm=31%2C29&mn=sn-5pguxa3x-ocvz%2Csn-hc57enee&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=335000&bui=AW-iu_oVCPaQAAUA_rpASEvs4QQJhJwutfhdORSQjWOnFazQECO7mp13mifVUawEuSxU51vEeMTpPa60&spc=q5xjPBg0k6O1&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=849238&dur=48.561&lmt=1694567715288136&mt=1770116509&fvip=3&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID_VR&txp=1311224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJEij0EwRQIgFxcpuH5P1WOTiVwc_4CEQ8O0S03Y8cELwgAE5XtAC2gCIQCfXWga8VjNvCL9z9sj7iO50zOvj3-rctQiM65Iyx6gGA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgMRueh1vNk7wXWAeALWbEay4_aKOc6r7Bp-kA-iEnwZYCIQCm0UGDz3Dk09hNKLvenuuLvCq7djzlo32jVWRoK1rrxw%3D%3D",
+    "audio_only": true,
+    "radio_mode": false,
+    "timestamp": "2026-02-03 14:12:07",
+    "genre": null
+  },
+  {
+    "query": "lofi hip hop radio - beats to relax/study to",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1770138719/ei/_9eBaZLzDsv7vdIPh8SX4Q8/ip/102.0.18.168/id/jfKfPfyJRdk.3/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hls_chunk_host/rr1---sn-5pguxa3x-ocvz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AW-iu_p88kvsOibE9Rz2B-GmG4hOD6WzYRIW8A3G6wjqnEpYxpChNeANdtDBC9ve5_UF5tgTlBBW-Iwb/spc/q5xjPLYgS5uWfrdQueXWk02fbeSQj7tkz_ysgufTExLShSD8Fx431A/vprv/1/playlist_type/DVR/initcwndbps/341250/met/1770117120,/mh/rr/mm/44/mn/sn-5pguxa3x-ocvz/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1770116683/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhALvDLHiFEFETXXlTZfgYLSViVJTQGJsAW_lCiM2CicT0AiEAwBY7H1wzOHjPU04mqZoh9cbX054db19ld_VX1XjSR3s%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAIPzQ-YpsE1TjvNZI7uHqRJK2Jc6CwFMwL1lo6-pFkgSAiAwXASKECHJRpZfu3PN_eRbBTreOk1PFwgrGUcgTn1hRw%3D%3D/playlist/index.m3u8",
+    "audio_only": true,
+    "radio_mode": true,
+    "timestamp": "2026-02-03 14:12:01",
+    "genre": null
+  },
+  {
+    "query": "streamer pro",
+    "url": "https://rr2---sn-5pguxa3x-ocvz.googlevideo.com/videoplayback?expire=1770138652&ei=vNeBabSIHevS6dsPgrLVWA&ip=102.0.18.168&id=o-AF0BA09_ke0t1pqwfBqMXkAVoWbXf7Ob3nS-Ms9rheMW&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=481&met=1770117052%2C&mh=Z-&mm=31%2C29&mn=sn-5pguxa3x-ocvz%2Csn-hc57en7d&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=335000&bui=AW-iu_rpvOIMnTKir346OqxmJUq2r52uPTuO_ZyEjOtsB1JzW6pyBSfSQw_oa1PGuKIeM9y1lJ5kX0g6&spc=q5xjPFJrS3Al&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=849238&dur=48.561&lmt=1694567715288136&mt=1770116509&fvip=5&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID_VR&txp=1311224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJEij0EwRgIhAMeSg0j0goKqBhVRrh2VPD5V37B9HBBp_aLdnAodFjbVAiEAiG1kkaC-QHay78qSq6TOjYpC7NqiS4PenHCv8mFi0YU%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAM_It80v6HjiE54vfOWZcJ2xl8-r1E9fFH33nyH10rLFAiEAwSgCWI3E5DR8V_PMgpCr9JgydS5WZ6q0hjElxmpHWpE%3D",
+    "audio_only": true,
+    "radio_mode": false,
+    "timestamp": "2026-02-03 14:10:50",
+    "genre": null
+  },
+  {
+    "query": "synthwave radio - beats to chill/game to",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1770138623/ei/n9eBaaarB7aEmLAPsaHIyQk/ip/102.0.18.168/id/4xDzrJKXOOY.3/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hls_chunk_host/rr1---sn-5pguxa3x-ocvs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AW-iu_rjZpSE4kwGQu16MwCMHG6xtEl-O1-Z0kTZhGgr5FfRR--7kqwUGNevfyyozzh2vZqwwUf9gWT9/spc/q5xjPANOxsFPfn21581LR89AKfdsVB0LyXQ-4vDw9xrZkr5lOv2n5Q/vprv/1/playlist_type/DVR/initcwndbps/371250/met/1770117024,/mh/PJ/mm/44/mn/sn-5pguxa3x-ocvs/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1770116683/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJEij0EwRAIgPhWjDcWlXR7DwZcnIlLDwvtBBZ_CCCrq13TgHX0VliUCIEuXhKHr_cGi303hEE4Km0g-sz4nwaEkJRClw-8bJsL9/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgDA1NIP4WmpFiPNIG2b177igZJbotWmAXlGID_Nd7uWACIQDGY2y3hZwtwV4C16rxepHWTRCfNHA4l9xFwZ5LTf8zdQ%3D%3D/playlist/index.m3u8",
+    "audio_only": true,
+    "radio_mode": true,
+    "timestamp": "2026-02-03 14:10:22",
+    "genre": null
+  },
+  {
+    "query": "streamer pro",
+    "url": "https://rr2---sn-5pguxa3x-ocvz.googlevideo.com/videoplayback?expire=1770138557&ei=XdeBadLbHIKKvdIPp6WouA0&ip=102.0.18.168&id=o-AJfgEuFNnwgBxFOMmF7DWYsHMWobdZZBP8lSHoTdr0Qc&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=421&met=1770116957%2C&mh=Z-&mm=31%2C29&mn=sn-5pguxa3x-ocvz%2Csn-hc57enee&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=335000&bui=AW-iu_pRI5_1DTwxHt9PbzbQWkxPsIODdlqbnLr7YGs00DE0yLymZJy9OC8Gvzfp37hhCHFNrK2GjhHW&spc=q5xjPLEPPcd0&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=849238&dur=48.561&lmt=1694567715288136&mt=1770116509&fvip=3&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID_VR&txp=1311224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJEij0EwRQIgPuCN3sFxxpIx1pUgpQk2kcqPYJZrpc4Cmti6GmC_dpICIQCSVC3TLsi-fSKm8eWUJgC3acOwwBAt-CHqPZc_qgUqrg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANA8YQ-YSWeWlvR2tPhc93o2zaXzSdB12PoJKWhVqQsIAiEAjcjfvVJuIRQvlZSZR97GYrgS9j0xQjW1wN-jEtn4Kns%3D",
+    "audio_only": true,
+    "radio_mode": false,
+    "timestamp": "2026-02-03 14:09:16",
+    "genre": null
+  }
+]

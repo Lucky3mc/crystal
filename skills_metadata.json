@@ -1,0 +1,282 @@
+[
+    {
+        "name": "AppPilot",
+        "description": "Opens apps, streams content, and automates actions with Selenium",
+        "keywords": [
+            "open",
+            "watch",
+            "stream",
+            "search",
+            "type",
+            "click",
+            "go to",
+            "navigate",
+            "launch",
+            "start",
+            "hdtoday",
+            "9anime"
+        ]
+    },
+    {
+        "name": "CameraSkill",
+        "description": "Base class for all assistant skills",
+        "keywords": [
+            "camera",
+            "take a picture",
+            "take pictures",
+            "snapshot",
+            "capture"
+        ]
+    },
+    {
+        "name": "CyberSentinel",
+        "description": "Network auditing and system monitoring toolkit.",
+        "keywords": [
+            "scan",
+            "nmap",
+            "capture",
+            "payload",
+            "port",
+            "monitor",
+            "audit",
+            "network",
+            "security",
+            "surveillance"
+        ]
+    },
+    {
+        "name": "E-Commerce Scout",
+        "description": "Tracks prices and alerts you to drops on your wishlist.",
+        "keywords": [
+            "scout",
+            "track",
+            "wishlist",
+            "add to list"
+        ]
+    },
+    {
+        "name": "EmailSkill",
+        "description": "Manages email functions using LLM-powered natural language parsing.",
+        "keywords": [
+            "email",
+            "inbox",
+            "send",
+            "mail",
+            "check"
+        ]
+    },
+    {
+        "name": "File Commander",
+        "description": "Intelligently finds, moves, organizes, and searches files",
+        "keywords": [
+            "move",
+            "organize",
+            "transfer",
+            "put",
+            "find",
+            "search",
+            "locate",
+            "copy",
+            "rename",
+            "delete",
+            "list",
+            "show"
+        ]
+    },
+    {
+        "name": "Greeter",
+        "description": "Welcomes the user based on the time of day.",
+        "keywords": [
+            "hello",
+            "hi",
+            "wake up"
+        ]
+    },
+    {
+        "name": "Local Ledger",
+        "description": "Base class for all assistant skills",
+        "keywords": [
+            "money",
+            "balance",
+            "spent",
+            "received",
+            "add",
+            "pay"
+        ]
+    },
+    {
+        "name": "Location Sentinel",
+        "description": "Automatically detects the device's physical location.",
+        "keywords": [
+            "where am i",
+            "current location",
+            "update location"
+        ]
+    },
+    {
+        "name": "MusicSkill",
+        "description": "Plays music via YouTube audio using yt-dlp and VLC.",
+        "keywords": [
+            "play",
+            "music",
+            "song",
+            "stop",
+            "pause",
+            "resume",
+            "volume",
+            "next",
+            "skip",
+            "queue",
+            "add",
+            "radio",
+            "background"
+        ]
+    },
+    {
+        "name": "Reminder Skill",
+        "description": "Sets timed reminders and alerts you in the background.",
+        "keywords": [
+            "remind",
+            "reminder",
+            "task",
+            "todo"
+        ]
+    },
+    {
+        "name": "Web Researcher",
+        "description": "Scrapes and summarizes news or documentation from URLs.",
+        "keywords": [
+            "summarize",
+            "research",
+            "news",
+            "what's happening",
+            "article"
+        ]
+    },
+    {
+        "name": "Network Scanner",
+        "description": "Basic network device discovery using ping",
+        "keywords": [
+            "ping scan",
+            "simple scan",
+            "check network"
+        ]
+    },
+    {
+        "name": "WiFi Scanner",
+        "description": "Scans local network for connected devices with MAC vendor lookup",
+        "keywords": [
+            "scan wifi",
+            "network scan",
+            "who is on my network",
+            "list devices",
+            "network map",
+            "find devices",
+            "connected devices",
+            "wifi devices"
+        ]
+    },
+    {
+        "name": "Smart Home",
+        "description": "Complete smart home control with TV, lights, plugs, speakers, and automation",
+        "keywords": [
+            "smart",
+            "home",
+            "device",
+            "tv",
+            "lights",
+            "plug",
+            "speaker",
+            "thermostat",
+            "camera",
+            "turn on",
+            "turn off",
+            "volume",
+            "brightness",
+            "color",
+            "scan",
+            "discover",
+            "control",
+            "automation",
+            "scene",
+            "routine",
+            "living room",
+            "bedroom",
+            "kitchen"
+        ]
+    },
+    {
+        "name": "OSINT Investigator",
+        "description": "Open Source Intelligence gathering and investigation",
+        "keywords": [
+            "find",
+            "search for",
+            "look up",
+            "who is",
+            "investigate",
+            "background check",
+            "osint",
+            "profile",
+            "dossier",
+            "social media",
+            "research",
+            "information",
+            "person search",
+            "company search"
+        ]
+    },
+    {
+        "name": "System Sentinel",
+        "description": "Checks hardware health and self-awareness",
+        "keywords": [
+            "status",
+            "how are you",
+            "system",
+            "health",
+            "battery"
+        ]
+    },
+    {
+        "name": "Music Streamer Pro",
+        "description": "Streams YouTube audio/video with continuous play, radio stations, and hardware volume control",
+        "keywords": [
+            "play",
+            "music",
+            "song",
+            "stop",
+            "volume",
+            "next",
+            "queue",
+            "add",
+            "video",
+            "radio",
+            "continue",
+            "background",
+            "pause",
+            "resume",
+            "skip",
+            "genre",
+            "station"
+        ]
+    },
+    {
+        "name": "Clock",
+        "description": "Automatically detects local time via IP and handles global queries.",
+        "keywords": [
+            "time",
+            "clock",
+            "hour",
+            "timezone"
+        ]
+    },
+    {
+        "name": "Weather Sentinel",
+        "description": "Monitors local weather based on device location.",
+        "keywords": [
+            "weather",
+            "forecast",
+            "where am i",
+            "sky check"
+        ]
+    }
+]

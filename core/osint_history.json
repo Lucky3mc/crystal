@@ -1,0 +1,54 @@
+[
+  {
+    "query": "nelson mandela married to",
+    "timestamp": "2026-02-01 19:09:46",
+    "result_count": 6,
+    "sources": [
+      "Linkedin",
+      "Github",
+      "Twitter",
+      "Instagram",
+      "Facebook",
+      "Reddit"
+    ]
+  },
+  {
+    "query": "nelson mandela married to",
+    "timestamp": "2026-02-02 12:43:45",
+    "result_count": 6,
+    "sources": [
+      "Linkedin",
+      "Github",
+      "Twitter",
+      "Instagram",
+      "Facebook",
+      "Reddit"
+    ]
+  },
+  {
+    "query": "osint investigator",
+    "timestamp": "2026-02-03 13:53:20",
+    "result_count": 6,
+    "sources": [
+      "Github",
+      "Facebook",
+      "Twitter",
+      "Instagram",
+      "Reddit",
+      "Linkedin"
+    ]
+  },
+  {
+    "query": "osint investigator",
+    "timestamp": "2026-02-03 13:54:33",
+    "result_count": 6,
+    "sources": [
+      "Github",
+      "Facebook",
+      "Twitter",
+      "Instagram",
+      "Reddit",
+      "Linkedin"
+    ]
+  }
+]

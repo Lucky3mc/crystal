@@ -1,0 +1,25 @@
+# ===========================
+# LiteLLM Generic Config
+# ===========================
+
+# Model settings
+model: "crystal"          # Your default model
+device: "cpu"             # or "gpu" if you have CUDA
+precision: "fp16"         # optional, can improve speed on supported devices
+
+# Server settings
+host: "localhost"
+port: 11434
+streaming: true           # enable streaming responses
+max_request_size: 1048576 # 1 MB, can be increased if needed
+
+# Logging
+log_level: "info"         # debug/info/warning/error
+log_file: "litellm.log"
+
+# Timeout (seconds) - can be increased for slow skills
+request_timeout: 60
+
+# Optional advanced settings
+cache_responses: true
+max_concurrent_requests: 5

@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./core"
+    ],
+    "python.pythonPath": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
+}
